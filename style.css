@@ -17,20 +17,22 @@ header{
     vertical-align: middle;
 }
 
+main{
+    margin-left: 50px;
+}
 .TituloSecundario{
     font-size: 2.2em;
     margin-top: 50px;
-    margin-left: 50px;
 }
-.ladoesquerdo{
+.SobreMim{
     display: inline-block;
     font-size: 1.2em;
     width: 50%;
-    margin-left: 50px;
 }
 .FotoDireita{
+    display: inline-block;
+    vertical-align: bottom;
     width: auto;
-    margin-left: 100px;
 }
 
 h3{
@@ -44,12 +46,11 @@ ul{
 .FormaçãoAcademica{
     display: inline-block;
     width: 50%;
-    margin-left: 50px;
     margin-top: 80px;
 }
 .CursosComplementares{
     display: inline-block;
-    width: 40%;
+    width: auto;
     vertical-align: top;
     margin-top: 80px;
 }
