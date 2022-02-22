@@ -9,6 +9,8 @@ header{
     text-align: center;
     font-size: 1.2em; 
     background-color: #DEDEE0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .FotoPerfil{
     border-radius: 50%;
@@ -19,7 +21,6 @@ header{
 
 main{
     margin-left: 50px;
-    background-color: #DEDEE0;
 }
 .TituloSecundario{
     font-size: 2.2em;
