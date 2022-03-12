@@ -72,6 +72,21 @@ footer h3{
     text-align: center;
     font-size: 1em;
 }
+.paginasweb{
+    background-color: #DEDEE0;
+    width: 200px;
+    margin: 30px auto;
+    font-size: 1.2em;
+}
+.paginasweb a{
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+.paginasweb:hover{
+    background-color: #fd0101;
+    font-size: 1.3em;
+}
 
 @media screen and (max-width: 480px){
     .SobreMim, .CursosComplementares, .FormaçãoAcademica{
